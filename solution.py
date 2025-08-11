@@ -1,3 +1,4 @@
+import numpy as np 
 import pandas as pd
 
 # 1. Load players data
